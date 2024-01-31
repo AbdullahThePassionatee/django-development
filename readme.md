@@ -1796,7 +1796,10 @@ Code:
 pip install -r requirements.txt
 ```
 Requirements.txt file is installed
-
+### install requirement.txt file with another way
+```
+ pip freeze > requirements.txt.
+``` 
 ### Test
 
 use cd command to go to project like storefront
